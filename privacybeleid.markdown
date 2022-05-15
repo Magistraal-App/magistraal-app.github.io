@@ -4,7 +4,7 @@ permalink: /privacybeleid/
 title: Privacybeleid
 last_modified_at: 15-05-2022 16:32:00
 ---
-Magistraal is gebouwd door Tjalling Feenstra als een open-source app. Magistraal wordt gratis ter beschikking gesteld door Tjalling Feenstra en is bedoeld voor gebruik *as is*.
+Magistraal wordt ontwikkeld door Tjalling Feenstra als een open-source app. Magistraal wordt gratis ter beschikking gesteld door Tjalling Feenstra en is bedoeld voor gebruik *as is*.
 
 Deze pagina dient om bezoekers te informeren over het beleid van Magistraal met betrekking tot het verzamelen, gebruiken en openbaar maken van persoonlijke gegevens indien iemand besluit Magistraal te gebruiken.
 
