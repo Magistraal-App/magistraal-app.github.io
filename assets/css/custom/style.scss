@@ -1,5 +1,8 @@
 body {
     overflow: hidden scroll !important;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 h5, h6 {
@@ -88,4 +91,8 @@ a.nav-link {
 a:hover,
 a:focus {
     text-decoration: underline !important;
+}
+
+footer {
+    margin-top: auto;
 }

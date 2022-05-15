@@ -6,3 +6,5 @@ url: "https://magistraal-app.github.io/" # the base hostname & protocol for your
 repository: Magistraal-App/magistraal-app.github.io
 sass:
   sass_dir: assets/css
+plugins:
+  - jekyll-sitemap
