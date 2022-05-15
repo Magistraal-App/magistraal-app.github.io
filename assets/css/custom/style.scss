@@ -76,3 +76,8 @@ h5, h6 {
     display: block;
     padding-bottom: 100%;
 }
+
+footer a:hover,
+footer a:focus {
+    text-decoration: underline !important;
+}
