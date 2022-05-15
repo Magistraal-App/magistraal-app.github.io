@@ -5,28 +5,28 @@ title: Changelog
 last_modified_at: 15-05-2022 20:40:00
 ---
 
-## Versie 1.0.20
+## Versie 1.0.20 --- 15-04-2022
 
 ---
 
 - Pagina's *Afspraken*, *Afwezigheid* en *Gemiddelde cijfers* scrollen nu horizontaal
 - Horizontale scrollgevoeligheid verminderd
 
-## Versie 1.0.19
+## Versie 1.0.19 --- 15-04-2022
 
 ---
 
 - Pagina *Gemiddelde cijfers* toegevoegd
 - Alle cijfers boven de 7,9 worden nu als groen gemarkeerd
 
-## Versie 1.0.18
+## Versie 1.0.18 --- 15-04-2022
 
 ---
 
 - Thema *Licht* aangepast 
 - Bugfix: Instellingen worden niet opgeslagen
 
-## Versie 1.0.17
+## Versie 1.0.17 --- 14-04-2022
 
 ---
 
