@@ -81,6 +81,10 @@ a {
     text-decoration: none !important;
 }
 
+a.nav-link {
+    transition: 0ms !important;
+}
+
 a:hover,
 a:focus {
     text-decoration: underline !important;
