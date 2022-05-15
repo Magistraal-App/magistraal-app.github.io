@@ -1,0 +1,112 @@
+---
+layout: default
+title: Status
+permalink: /status/
+---
+
+<div class="container justify-content-center pt-5">
+    <div class="card mb-3">
+        <div class="card-header">
+            <h2>Algemeen</h2>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-12 col-sm-4">Laatste versie:</div>
+                <div class="col-12 col-sm-8 text-muted" data-magistraal-status="version">n/a</div>
+            </div>
+        </div>
+    </div>
+    <div class="card mb-3">
+        <div class="card-header">
+            <h2>Meldingen</h2>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-12 col-sm-4">Laatste update</div>
+                <div class="col-12 col-sm-8 text-muted" data-magistraal-status="notifications.last_update.at">n/a</div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-sm-4">Tijdsduur update</div>
+                <div class="col-12 col-sm-8 text-muted">
+                    <span data-magistraal-status="notifications.last_update.duration">n/a</span>
+                    <span>s</span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-sm-4">Aantal nieuwe afspraken</div>
+                <div class="col-12 col-sm-8 text-muted" data-magistraal-status="notifications.new_appointments.count">n/a</div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-sm-4">Aantal nieuwe berichten</div>
+                <div class="col-12 col-sm-8 text-muted" data-magistraal-status="notifications.new_messages.count">n/a</div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-sm-4">Aantal nieuwe cijfers</div>
+                <div class="col-12 col-sm-8 text-muted" data-magistraal-status="notifications.new_grades.count">n/a</div>
+            </div>
+        </div>
+    </div>
+    <div class="card mb-3">
+        <div class="card-header">
+            <h2>Database</h2>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-12 col-sm-4">Latentie:</div>
+                <div class="col-12 col-sm-8 text-muted">
+                    <span data-magistraal-status="database.latency_us">n/a</span>
+                    <span>μs</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function() {
+        $.get('https://tjalling.net/magistraal/api/status/', function(status) {
+            $('[data-magistraal-status]').each(function() {
+                const $el         = $(this);
+                const statusKey   = $el.attr('data-magistraal-status');
+                let statusValue   = Object.byString(status, statusKey);
+
+                if(isISOString(statusValue)) {
+                    statusValue = new Intl.DateTimeFormat('nl-NL', {
+                        timeStyle: 'short',
+                        dateStyle: 'long'
+                    }).format(new Date(statusValue));
+                }
+
+                $el.text(typeof statusValue != 'undefined' && statusValue !== null ? statusValue : 'n/a');
+            })
+        })
+    })
+
+    function isISOString(possibleDate) {
+        if(typeof possibleDate != 'string') {
+            return false;
+        }
+
+        if(possibleDate.indexOf('T') == -1 || possibleDate.indexOf(':') == -1) {
+            return false;
+        }
+
+        const date = new Date(possibleDate);
+
+        return (date !== 'Invalid Date') && !isNaN(date);
+    }
+
+    Object.byString = function(o, s) {
+        s = s.replace(/\[(\w+)\]/g, '.$1'); // convert indexes to properties
+        s = s.replace(/^\./, '');           // strip a leading dot
+        var a = s.split('.');
+        for (var i = 0, n = a.length; i < n; ++i) {
+            var k = a[i];
+            if (k in o) {
+                o = o[k];
+            } else {
+                return;
+            }
+        }
+        return o;
+    }
+</script>
