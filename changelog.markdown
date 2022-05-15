@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /changelog/
+permalink: /changelog
 title: Changelog
 last_modified_at: 15-05-2022 16:32:00
 ---
