@@ -2,8 +2,12 @@
 layout: default
 permalink: /changelog/
 title: Changelog
-last_modified_at: 15-05-2022 16:32:00
+last_modified_at: 15-05-2022 18:16:00
 ---
+## Versie 1.0.19
+---
+- Pagina 'Gemiddelde cijfers' toegevoegd
+- Alle cijfers boven de 7,9 worden nu als groen gemarkeerd
 
 ## Versie 1.0.18
 ---
