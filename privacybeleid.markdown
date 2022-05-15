@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /privacybeleid
+permalink: /privacybeleid/
 title: Privacybeleid
 last_modified_at: 15-05-2022 16:32:00
 ---
