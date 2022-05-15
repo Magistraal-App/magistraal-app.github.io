@@ -7,7 +7,7 @@ title: Changelog
 ## Versie 1.0.18
 ---
 - Thema 'Licht' aangepast 
-- Instellingen worden niet opgeslagen
+- Bugfix: Instellingen worden niet opgeslagen
 
 ## Versie 1.0.17
 ---
