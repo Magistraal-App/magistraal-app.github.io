@@ -5,6 +5,15 @@ title: Changelog
 last_modified_at: 16-05-2022 07:34:13
 ---
 
+## Versie 1.0.22 --- 17-05-2022
+
+---
+
+- Nieuwe instellingen worden nu direct toegepast
+- Pagina-indicator toegevoegd op de *Afspraken*, *Afwezigheid* en *Gemiddelde cijfers* pagina's
+- Onvoldoendes op de *Gemiddelde cijfers* pagina worden nu rood gemarkeerd
+- Bugfix: Account wordt steeds uitgelogd
+
 ## Versie 1.0.21 --- 16-05-2022
 
 ---
