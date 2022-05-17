@@ -5,6 +5,14 @@ title: Changelog
 last_modified_at: 16-05-2022 07:34:13
 ---
 
+## Versie 1.0.23 --- 17-05-2022
+
+---
+
+- Instellingengroep *Meldingen* tijdelijk verwijderd
+- Instelling *Pagina-indicator* toegevoegd
+
+
 ## Versie 1.0.22 --- 17-05-2022
 
 ---
