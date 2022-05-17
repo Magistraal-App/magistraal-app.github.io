@@ -9,6 +9,7 @@ last_modified_at: 16-05-2022 07:34:13
 
 ---
 
+- Bugfix: Je wordt niet uitgelogd als je token ongeldig is
 - Instellingengroep *Meldingen* tijdelijk verwijderd
 - Instelling *Pagina-indicator* toegevoegd
 
