@@ -2,8 +2,15 @@
 layout: default
 permalink: /changelog/
 title: Changelog
-last_modified_at: 16-05-2022 07:34:13
+last_modified_at: 18-05-2022 21:36:45
 ---
+
+## Versie 1.0.24 --- 18-05-2022
+
+---
+
+- Notificaties werken weer
+- Vervallen afspraken op de volgende dag worden nu ook gecheckt (voor notificaties)
 
 ## Versie 1.0.23 --- 17-05-2022
 
