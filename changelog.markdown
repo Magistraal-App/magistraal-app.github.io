@@ -2,7 +2,7 @@
 layout: default
 permalink: /changelog/
 title: Changelog
-last_modified_at: 20-05-2022 21:39:25
+last_modified_at: 20-05-2022 22:15:36
 ---
 
 ## Versie 1.0.26 --- 20-05-2022
@@ -11,6 +11,7 @@ last_modified_at: 20-05-2022 21:39:25
 
 - Thema *Grijs* aangepast
 - UI-fixes
+- Apple Touch Icons toegevoegd
 
 ## Versie 1.0.25 --- 20-05-2022
 
