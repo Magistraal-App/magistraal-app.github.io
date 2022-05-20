@@ -2,8 +2,15 @@
 layout: default
 permalink: /changelog/
 title: Changelog
-last_modified_at: 20-05-2022 20:44:34
+last_modified_at: 20-05-2022 21:39:25
 ---
+
+## Versie 1.0.26 --- 20-05-2022
+
+---
+
+- Thema *Grijs* aangepast
+- UI-fixes
 
 ## Versie 1.0.25 --- 20-05-2022
 
