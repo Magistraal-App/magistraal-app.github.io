@@ -10,7 +10,7 @@ last_modified_at: 22-05-2022 12:48:36
 ---
 
 - Bugfix: Zoekinput werkt niet op iOS
-- Gewijzigd: Naam van thema *Grijs* naar *Donker*
+- Gewijzigd: Thema *Grijs* heet nu *Donker*
 - Toegevoegd: Pagina *Leermiddelen*
 - Toegevoegd: Thema *Oled*
 - Verwijderd: Thema *Donker*
