@@ -7,8 +7,8 @@ last_modified_at: 15-05-2022 16:32:00
 
 ## Definities
 ---
-- de Website: de website, te bezoeken op [https://magistraal-app.github.io/](https://magistraal-app.github.io/)).
-- de App: de Magistraal PWA, te bezoeken op ([https://tjalling.net/magistraal/](https://tjalling.net/magistraal/)), zowel de geïnstalleerde versie als de versie bezocht via de browser.
+- de Website: de website, te bezoeken op [https://magistraal-app.github.io/](https://magistraal-app.github.io/).
+- de App: de Magistraal PWA, te bezoeken op [https://tjalling.net/magistraal/](https://tjalling.net/magistraal/), zowel de geïnstalleerde versie als de versie bezocht via de browser.
 
 ## Inleiding
 ---
