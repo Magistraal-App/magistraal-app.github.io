@@ -12,7 +12,7 @@ last_modified_at: 22-05-2022 12:48:36
 - Opgelost: Gemiddelde cijfer over vakken heeft niet hetzelfde aantal decimalen
 - Toegevoegd: Instelling *Dataverbruik*
 - Gewijzigd: De pagina's *Bronnen* en *Instellingen* zijn nu sneller
-- Opgelost: diverse bugfixes
+- Opgelost: Diverse bugfixes
 
 ## Versie 1.0.27 --- 22-05-2022
 
