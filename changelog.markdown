@@ -5,11 +5,20 @@ title: Changelog
 last_modified_at: 22-05-2022 12:48:36
 ---
 
+## Versie 1.0.28 --- 22-05-2022
+
+---
+
+- Opgelost: Gemiddelde cijfer over vakken heeft niet hetzelfde aantal decimalen
+- Toegevoegd: Instelling *Dataverbruik*
+- Gewijzigd: De pagina's *Bronnen* en *Instellingen* zijn nu sneller
+- Opgelost: diverse bugfixes
+
 ## Versie 1.0.27 --- 22-05-2022
 
 ---
 
-- Bugfix: Zoekinput werkt niet op iOS
+- Opgelost: Zoekinput werkt niet op iOS
 - Gewijzigd: Thema *Grijs* heet nu *Donker*
 - Toegevoegd: Pagina *Leermiddelen*
 - Toegevoegd: Thema *Oled*
@@ -19,7 +28,7 @@ last_modified_at: 22-05-2022 12:48:36
 
 ---
 
-- Bugfix: Aantal UI-fixes
+- Opgelost: Aantal UI-fixes
 - Gewijzigd: Thema *Grijs*
 - Toegevoegd: Apple Touch Icons
 
@@ -27,20 +36,20 @@ last_modified_at: 22-05-2022 12:48:36
 
 ---
 
-- Bugfix: Aantal security fixes
+- Opgelost: Aantal security fixes
 
 ## Versie 1.0.24 --- 18-05-2022
 
 ---
 
-- Bugfix: Notificaties waren tijdelijk uitgeschakeld
+- Opgelost: Notificaties waren tijdelijk uitgeschakeld
 - Toegevoegd: Vervallen afspraken op de volgende dag worden nu ook gecheckt (voor notificaties)
 
 ## Versie 1.0.23 --- 17-05-2022
 
 ---
 
-- Bugfix: Je wordt niet uitgelogd als je token ongeldig is
+- Opgelost: Je wordt niet uitgelogd als je token ongeldig is
 - Toegevoegd: Instelling *Pagina-indicator*
 - Verwijderd: Instellingengroep *Meldingen* (Tijdelijk)
 
@@ -49,23 +58,23 @@ last_modified_at: 22-05-2022 12:48:36
 
 ---
 
-- Bugfix: Account wordt steeds uitgelogd
-- Bugfix: Nieuwe instellingen worden niet direct toegepast
-- Bugfix: Onvoldoendes op de *Gemiddelde cijfers* pagina worden niet rood gemarkeerd
+- Opgelost: Account wordt steeds uitgelogd
+- Opgelost: Nieuwe instellingen worden niet direct toegepast
+- Opgelost: Onvoldoendes op de *Gemiddelde cijfers* pagina worden niet rood gemarkeerd
 - Toegevoegd: Pagina-indicator op de pagina's *Afspraken*, *Afwezigheid* en *Gemiddelde cijfers*
 
 ## Versie 1.0.21 --- 16-05-2022
 
 ---
 
-- Bugfix: Diverse bugfixes
+- Opgelost: Diverse bugfixes
 - Verwijderd: Kleine Microsoft Teams knop bij afspraken
 
 ## Versie 1.0.20 --- 15-05-2022
 
 ---
 
-- Bugfix: Horizontale scrollgevoeligheid is te hoog
+- Opgelost: Horizontale scrollgevoeligheid is te hoog
 - Gewijzigd: Pagina's *Afspraken*, *Afwezigheid* en *Gemiddelde cijfers* scrollen nu horizontaal
 
 ## Versie 1.0.19 --- 15-05-2022
@@ -79,7 +88,7 @@ last_modified_at: 22-05-2022 12:48:36
 
 ---
 
-- Bugfix: Instellingen worden niet opgeslagen
+- Opgelost: Instellingen worden niet opgeslagen
 - Gewijzigd: Thema *Licht* 
 
 ## Versie 1.0.17 --- 14-05-2022
