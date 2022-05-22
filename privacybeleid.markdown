@@ -12,12 +12,11 @@ last_modified_at: 15-05-2022 16:32:00
 
 ## Inleiding
 ---
-De Website en App zijn en worden ontwikkeld door Tjalling Feenstra met een open-source. De Website en App worden gratis ter beschikking gesteld door Tjalling Feenstra en zijn bedoeld voor gebruik *as is*.
+De Website en App zijn en worden ontwikkeld door Tjalling Feenstra als open-source project. De Website en App worden gratis ter beschikking gesteld en zijn bedoeld voor gebruik *as is*.
 
 Deze pagina dient om bezoekers te informeren over het beleid van de App met betrekking tot het verzamelen, gebruiken en openbaar maken van persoonlijke gegevens indien iemand besluit Magistraal te gebruiken.
 
 Indien u kiest om de App te gebruiken, dan gaat u akkoord met het verzamelen en gebruiken van informatie in verband met dit beleid. De verzamelde informatie wordt gebruikt voor het verstrekken en verbeteren van de App. Uw informatie wordt niet gedeeld met derde partijen.
-
 
 ## Verzamelen en gebruiken van informatie
 ---
@@ -33,11 +32,11 @@ De App maakt expliciet gebruik van cookies. Tevens kan de App gebruik maken van 
 
 ## Beveiliging
 ---
-Ik waardeer uw vertrouwen in het verstrekken van uw persoonlijke informatie aan ons, daarom streven wij ernaar om commercieel aanvaardbare middelen te gebruiken om deze te beschermen. Maar onthoud dat geen enkele methode van transmissie over het internet, of methode van elektronische opslag 100% veilig en betrouwbaar is, en ik kan de absolute veiligheid ervan niet garanderen.
+Ik waardeer uw vertrouwen in het verstrekken van uw persoonlijke informatie aan ons, daarom streven wij ernaar om commercieel aanvaardbare middelen te gebruiken om deze te beschermen. Maar onthoud dat geen enkele methode van transmissie over het internet, of methode van elektronische opslag 100% veilig en betrouwbaar is, en ik de absolute veiligheid ervan niet kan garanderen.
 
 ## Links naar andere sites
 ---
-De Website en de App kunnen links naar andere sites bevatten. Als u op een link van een derde partij klikt, wordt u naar die site geleid. Merk op dat deze externe sites niet door mij worden beheerd. Daarom raad ik u ten zeerste aan het Privacybeleid van deze websites te lezen. Ik heb geen controle over en neem geen verantwoordelijkheid voor de inhoud, het privacybeleid, of de praktijken van sites of diensten van derden.
+De Website en de App kunnen links naar andere sites bevatten. Als u op een link van een derde partij klikt, wordt u naar die site doorgestuurd. Merk op dat deze externe sites niet door mij worden beheerd. Daarom raad ik u ten zeerste aan het Privacybeleid van deze websites te lezen. Ik heb geen controle over en neem geen verantwoordelijkheid voor de inhoud, het privacybeleid, of de praktijken van sites of diensten van derden.
 
 ## Privacy van kinderen
 ---
