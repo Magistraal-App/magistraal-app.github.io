@@ -5,6 +5,14 @@ title: Changelog
 last_modified_at: 22-05-2022 12:48:36
 ---
 
+## Versie 1.0.29 --- 23-05-2022
+
+---
+
+- Opgelost: Sidebar sluit als een bericht wordt verzonden of een afspraak wordt gemaakt / bewerkt.
+- Toegevoegd: Berichten kunnen nu worden doorgestuurd
+
+
 ## Versie 1.0.28 --- 22-05-2022
 
 ---
