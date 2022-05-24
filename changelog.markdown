@@ -2,7 +2,7 @@
 layout: default
 permalink: /changelog/
 title: Changelog
-last_modified_at: 24-05-2022 21:27:36
+last_modified_at: 24-05-2022 22:02:36
 ---
 
 ## Versie 1.0.30 --- 24-05-2022
@@ -12,6 +12,7 @@ last_modified_at: 24-05-2022 21:27:36
 - Toegevoegd: Pagina *Verzonden* bij *Berichten*
 - Toegevoegd: Pagina *Prullenbak* bij *Berichten*
 - Toegevoegd: Badge voor aantal ongelezen berichten in de navigatiebalk
+- Gewijzigd: Sidebar sluit nu nadat er op een van de knoppen is geklikt
 
 ## Versie 1.0.29 --- 23-05-2022
 
