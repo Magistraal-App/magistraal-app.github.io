@@ -2,8 +2,17 @@
 layout: default
 permalink: /changelog/
 title: Changelog
-last_modified_at: 26-05-2022 22:18:43
+last_modified_at: 27-05-2022 09:40:23
 ---
+
+## Versie 1.0.32 --- 26-05-2022
+
+---
+
+- Gewijzigd: Pagina's *Verzonden* en *Prullenbak* zitten nu in een dropdown bij *Berichten*
+- Toegevoegd: Instelling *Voorkeurshand*
+- Opgelost: Notificaties worden niet verstuurd
+
 
 ## Versie 1.0.31 --- 26-05-2022
 
