@@ -2,8 +2,15 @@
 layout: default
 permalink: /changelog/
 title: Changelog
-last_modified_at: 28-05-2022 09:08:23
+last_modified_at: 28-05-2022 14:40:21
 ---
+
+## Versie 1.0.34 --- 28-05-2022
+
+---
+
+- Opgelost: Op kleine schermen verdwijnen enkele sidebar knoppen buiten het scherm
+- Opgelost: App is nu weer offline beschikbaar
 
 ## Versie 1.0.33 --- 28-05-2022
 
