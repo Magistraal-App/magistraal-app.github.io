@@ -2,10 +2,18 @@
 layout: default
 permalink: /changelog/
 title: Changelog
-last_modified_at: 27-05-2022 09:40:23
+last_modified_at: 28-05-2022 09:08:23
 ---
 
-## Versie 1.0.32 --- 26-05-2022
+## Versie 1.0.33 --- 28-05-2022
+
+---
+
+- Toegevoegd: Zoekfunctie toegevoegd op pagina *Instellingen*
+- Toegevoegd: Pagina *Studiewijzers*
+- Opgelost: Op sommige plekken verdwijnt de dropdown buiten het scherm
+
+## Versie 1.0.32 --- 27-05-2022
 
 ---
 
