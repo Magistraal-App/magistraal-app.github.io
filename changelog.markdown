@@ -2,8 +2,16 @@
 layout: default
 permalink: /changelog/
 title: Changelog
-last_modified_at: 28-05-2022 14:40:21
+last_modified_at: 02-06-2022 07:24:28
 ---
+
+## Versie 1.0.35 --- 02-06-2022
+
+---
+
+- Opgelost: Zoekinput resultaten zijn niet volledige breedte
+- Opgelost: Bijlagen bij afspraak laden niet
+- Opgelost: Leermiddelen kunnen niet worden geopend
 
 ## Versie 1.0.34 --- 28-05-2022
 
