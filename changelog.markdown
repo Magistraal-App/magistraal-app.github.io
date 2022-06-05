@@ -2,8 +2,14 @@
 layout: default
 permalink: /changelog/
 title: Changelog
-last_modified_at: 02-06-2022 07:24:28
+last_modified_at: 05-06-2022 16:42:28
 ---
+
+## Versie 1.0.36 --- 02-06-2022
+
+---
+
+- Opgelost: Diverse bugfixes
 
 ## Versie 1.0.35 --- 02-06-2022
 
